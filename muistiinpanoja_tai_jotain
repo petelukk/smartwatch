@@ -1,0 +1,3 @@
+6.2.17 2h
+vertailin bommeja ja totesin että komponentit on antenia lukuunottamatta samat mutta close enough tai sitten ei. 
+TODO: Selvitä tarvitseeko antennille hommata uusi konkka C3? 0,8pF halutaan. Lähin mitä on on 1,0pF
