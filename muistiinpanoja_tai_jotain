@@ -1,3 +1,10 @@
-6.2.17 2h
+6.2.17 5h 1630-2130
 vertailin bommeja ja totesin että komponentit on antenia lukuunottamatta samat mutta close enough tai sitten ei. 
 TODO: Selvitä tarvitseeko antennille hommata uusi konkka C3? 0,8pF halutaan. Lähin mitä on on 1,0pF
+
+P0.25 ja P0.26 pinneissä konkat koska
+3.36 [138] RADIO: Spurious emission on GPIO exceeds limits in radiated tests
+http://infocenter.nordicsemi.com/pdf/nRF52832_Rev_1_Errata_v1.4.pdf
+Erratassa on satamiljoonaa ongelmaa
+
+Piirsin kicadilla nRF52832 ref leiskan
