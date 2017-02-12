@@ -8,3 +8,6 @@ http://infocenter.nordicsemi.com/pdf/nRF52832_Rev_1_Errata_v1.4.pdf
 Erratassa on satamiljoonaa ongelmaa
 
 Piirsin kicadilla nRF52832 ref leiskan
+
+12.2.17 1h
+Piirtelin lisää komponentteja. touch sensori puuttuu.

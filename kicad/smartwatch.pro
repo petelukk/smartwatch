@@ -1,4 +1,4 @@
-update=ma  6. helmikuuta 2017 20.01.10
+update=su 12. helmikuuta 2017 23.30.51
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,8 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=kicad_libs/nrf52832
+LibName31=kicad_libs/adxl362
+LibName32=kicad_libs/sharp_lcd
+LibName33=kicad_libs/lt3469
+LibName34=kicad_libs/lxdc2hl_dcdc
+LibName35=kicad_libs/usb_chrg_aat3681a
