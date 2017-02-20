@@ -1,4 +1,4 @@
-update=su 12. helmikuuta 2017 23.30.51
+update=pe 17. helmikuuta 2017 20.35.16
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,6 @@ LibName32=kicad_libs/sharp_lcd
 LibName33=kicad_libs/lt3469
 LibName34=kicad_libs/lxdc2hl_dcdc
 LibName35=kicad_libs/usb_chrg_aat3681a
+LibName36=kicad_libs/swd_port
+LibName37=kicad_libs/kxg03
+LibName38=kicad_libs/kmx62

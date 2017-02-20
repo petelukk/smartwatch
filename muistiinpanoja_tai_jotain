@@ -11,3 +11,25 @@ Piirsin kicadilla nRF52832 ref leiskan
 
 12.2.17 1h
 Piirtelin lisää komponentteja. touch sensori puuttuu.
+
+13.3.17
+Softdevice olkoon S132, Vaikuttaa olevan vähäisimmät ominaisuudet ja production ready.
+4 pinnniä riittää ohjelmointiin.
+SDK 12.2.0
+Mitä tahansa digipinnejä voi käyttää mihin tahansa esim SPI tai TWI
+Up to 3x SPI master/slave with EasyDMA
+Up to 2x I2C compatible 2-Wire master/slave.
+
+Näyttö
+ON seq s14
+
+Pinnit joille suositellaan low freg low drive sivulla 17 speksissä
+nfc sivulla 18 pinnit huonoja gpio
+
+15.2.17
+
+Vääräkide !!!!!!!!!!!!!!!!!!!!!1
+
+20.2.17
+
+Near RF pinnit s 17 speksissä
