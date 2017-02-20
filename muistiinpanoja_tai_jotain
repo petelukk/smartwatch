@@ -33,3 +33,15 @@ Vääräkide !!!!!!!!!!!!!!!!!!!!!1
 20.2.17
 
 Near RF pinnit s 17 speksissä
+
+I2C Osoitteet:
+KMX62: 7bit 0x0E
+
+Näytön max spi kello 3v 1MHz 
+The SPI port should be set up so that, in the idle state,
+the serial chip select (SCS) and the serial clock (SC)
+are low.????????
+
+Skemassa Paljon konkkia?
+
+Akku?
